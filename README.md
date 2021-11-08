@@ -12,6 +12,8 @@ Desde la mirada de la ciencia, hace casi 100 años que no se registraba una erup
 ¿Qué tipo de magma eruptó el volcán Chaitén en Mayo del 2008?
 Magma riolítico, uno de los más viscosos que hay. Sin embargo, el volcán dio menos de 6 horas de 'aviso' previo y la erupción fue tan grande que tenía el potencial del sepultar Chaitén.
 
+![71_chaiten](https://user-images.githubusercontent.com/75447953/140771123-35bb390f-79ae-4202-93e0-5c0fc303be1c.jpg)
+
 Su ceniza volcánica alcanzó una altura de 40 kilómetros y contaminó la atmósfera de los alrededores, llegando a la Patagonia argentina e incluso a Buenos Aires. Además, junto a la lluvia de cenizas y el deshielo de las nieves, el río Blanco se desbordó. Aumentando en 1,5 metros su cauce habitual. Fue este, finalmente, el que destruyó gran parte del pueblo, su infraestructura y equipamiento urbano.
 
 Se evacuó inmediatamente los 8000 habitantes del pueblo Chaitén a órdenes de los científicos, nunca antes en Chile se había evacuado una cantidad de personas tan grande debido a una erupción volcánica. Gracias a la rápida evacuación no hubo peronas fallecidas. En vista de la grave situación, el gobierno declaró que vivir en allí equivale a poner su vida en riesgo y compró la mayoría de los terrenos esperando que nadie vuelva a dicha zona.
