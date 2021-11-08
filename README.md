@@ -3,7 +3,7 @@ Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca d
 
 *aquí tal vez algo sobre los tipos de volcanes y a cual de estos corresponde Chaitén*
 
-El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén. Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento científico muy interesante de estudiar.
+__El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén.__ Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento científico muy interesante de estudiar.
 
 Chaitén está ubicado en una de las zonas más delgadas de nuestro país y coincidentemente cerca del pueblo se encuentra el impotente volcán Michinmahuida. Este volcán ha registrado erupciones históricas y era reconocido como un potencial peligro por los residentes de la zona. El "cerro" Chaitén, en cambio, no era ni considerado un volcán. Erróneamente se creía que estaba inactivo y su última erupción había sido hace ya más de 3000 años. Es solo al estudiar este caso posterior a la erupción del 2008 que se descubrió que la última erupción fue hace tan solo 300 años, esta fue tan grande como la que sepultó a Pompeya, y que Chaitén definitivamente se encuentra activo. Esta grave confusión y descuido de investigación fue crucial por parte de las autoridades al momento de dar instrucciones, ya que se creía que la erupción era del volcán Michinmahuida, por lo que en un principio los residentes no iban a ser evacuados, error que podría haber resultado en miles de muertes.
 
@@ -16,7 +16,7 @@ Su ceniza volcánica alcanzó una altura de 40 kilómetros y contaminó la atmó
 
 Se evacuó inmediatamente los 8000 habitantes del pueblo Chaitén a órdenes de los científicos, nunca antes en Chile se había evacuado una cantidad de personas tan grande debido a una erupción volcánica. Gracias a la rápida evacuación no hubo peronas fallecidas. En vista de la grave situación, el gobierno declaró que vivir en allí equivale a poner su vida en riesgo y compró la mayoría de los terrenos esperando que nadie vuelva a dicha zona.
 
-¿Qué pasa con las personas que vivían en Chaitén? Si bien, fueron relocalizados rápidamente por el gobierno, ¿Qué ocurre con su identidad? ¿Qué cambios ocurrieron en sus vidas? ¿Cuántos desean volver a sus tierras?
+__¿Qué pasa con las personas que vivían en Chaitén?__ Si bien, fueron relocalizados rápidamente por el gobierno, __¿Qué ocurre con su identidad? ¿Qué cambios ocurrieron en sus vidas? ¿Cuántos desean volver a sus tierras?__
 
 Lamentablemente, llegado el año 2010 ocurrió el terremoto del Maule, por lo que el foco del gobierno cambió de Chaitén y los proyectos de reconstrucción perdieron impulso. Muchas familias volvieron a la zona, pero sólo alcanzaron a ser menos de un tercio de las que habían originalmente.
 
@@ -45,7 +45,7 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 |                                   | 14. Maca-Cay                   | 14. Corcovado-Yanteles             |
 |                                   |                                | 15. Melimoyu                       |
 |                                   |                                | 16. Mentolat                       |
-# Información del volcán Chaitén
+## Información del volcán Chaitén
 
 | Nombre | Volcán Chaitén |
 |:----------|:----------|
