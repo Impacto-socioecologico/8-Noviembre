@@ -23,7 +23,7 @@ Lamentablemente, llegado el año 2010 ocurrió el terremoto del Maule, por lo qu
 La erupción del volcán Chaitén terminó en Mayo del 2011, tres años después de su inicio, pero para ese entonces, Chile ya no estaba prestando atención.
 
 
-# Chile, un país volcánicamente activo
+## Chile, un país volcánicamente activo
 El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 categorías de volcanes de acuerdo a su índice de peligrosidad, en estos volcanes hay instalado al menos un método de resgistro (sismógrafo, cámaras de vigilancia, cámaras infrarrojas, etc).
 
 
@@ -46,10 +46,10 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 |                                   |                                | 15. Melimoyu                       |
 |                                   |                                | 16. Mentolat                       |
 
-# Información del volcán Chaitén
+## Información del volcán Chaitén
 
 
-# Efecto en las personas
+## Efecto en las personas
 
 -La evacuación de los habitantes de Chaitén fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas.
 
@@ -57,7 +57,7 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 
 -Otro factor a destacar es el aumento de la desconfianza de la población afectada por la erupción volcánica hacia las medidas tomadas por el gobierno sobre la reubicación de Chaitén y su población, debido a que el área afectada se designo como zona no apta para habitar.
 
-# Efecto en la localidad
+## Efecto en la localidad
 
 -Debido a la ceniza volcánica la zona afectada y sus alrededores quedó muy contaminada, ademas se suman una gran cantidad de destrozos en la infraestructura y el equipamiento urbano, así también daños a las distintas fuentes de trabajo como lo es la ganadería
 
@@ -66,7 +66,7 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 -Según el Dr. Miguel Bertolami, profesor e investigador de la Facultad de Ciencias Naturales de casa de estudio, el impacto ambiental generado por la erupción volcánica en los suelos de las zonas afectadas sufrirán un posible impacto positivo ya que este se vera modificado gracias al aporte de distintos nutrientes que trae con sigo las cenizas volcánicas.
 
 
-# Río Blanco (Chaitén)
+## Río Blanco (Chaitén)
 El Río Blanco o río Chaitén tiene 20 km de longitud. Sus cuencas son costeras y ubicadas entre Río Puelo y Río Yelcho con una superficie de cuenca de 78,5 km². Nace en el lado sur del cordón Chaitén, fluye hacia el sur, bordea varios volcanes, cruza la ciudad de Chaitén y desemboca finalmente en el océano Pacífico. Su trayecto previo a la erupción del volcán se dirigía desde el norte hacia la ciudad Chaitén, la bordeaba por el este y desembocaba en el mar hacia al sur. Sin embargo, durante la erupción el río lleno de cenizas y barro de la erupción, desbordó su cauce y cruzó por el centro de la ciudad hacia el mar, creando una división entre sur y norte de la ciudad que persiste hasta ahora.
 Según la Carta Topográfica Chaitén 1:50.000 del Instituto Geográfico Militar, el río que pasa por el borde oriente de la ciudad es el río Chaitén, mientras el río Blanco se localiza a unos 12 Km al norte del área urbana de la comuna. En resumen, llamaríamos Río Blanco al río previo a la erupción y río Chaitén al posterior el desborde.
 El día 2 de mayo de 2008 se originó la erupción del Volcán Chaitén. La caída de cenizas en el río, el deshielo y los días de lluvia terminaron provocando, diez días después de la erupción, el desborde del Río Blanco y el aumento del caudal de las aguas. El Río ascendió hasta 1,5 metros de su cauce habitual, desencadenando la evacuación total de los habitantes de Chaitén. El desborde destruyó una gran parte del pueblo, y la erupción continuó siendo muy fuerte por varios meses, para decaer en fuerza con el tiempo y finalmente terminar en Mayo del 2011, tres años después de haberse iniciado.
