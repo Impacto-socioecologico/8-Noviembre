@@ -46,6 +46,20 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 |                                   |                                | 15. Melimoyu                       |
 |                                   |                                | 16. Mentolat                       |
 
+# Información del volcán Chaitén
+
+|:----------|:----------|
+| Nombre | Volcán Chaitén |
+| Coordenadas | 42°50’S – 72°39’O |
+| Poblados más cercanos | Chaitén (Com. Chaitén, R. de los Lagos), El Amarillo (Com.Chaiten, R. de los Lagos) y Santa Barbara (Com. Chaitén, R. de los Lagos) |
+| Tipo de volcán | Complejo de Domos |
+| Altura | 18,5 km^2 |
+| Volumen estimado | 7 km^3 |
+| Ranking Riesgo Específico | 11 |
+| Medidas caldera | (2,5 x 4) km |
+| Mayores riesgos asociados | Debido a su registro eruptivo, el mayor riesgo viene de la ceniza que en su momento se elevó sobre la cordillera de los andes debido a vientos favorables.
+Las nieves y las lluvias pueden generar lahares. |
+
 # Efecto en las personas
 
 -La evacuación de los habitantes de Chaitén fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas.
