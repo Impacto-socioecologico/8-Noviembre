@@ -51,19 +51,19 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 
 ## Efecto en las personas
 
--La evacuación de los habitantes de Chaitén fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas.
+- La evacuación de los habitantes de Chaitén fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas.
 
--Debido a la erupción el aire de la zona quedo muy contaminado por la cenizas volcánica, lo que repercute gravemente dentro del organismo humano. Según el Dr. Daniel Pérez Chada, Jefe del Servicio de Neumonología del Hospital Universitario Austral, en el caso de las personas que desde antes ya tenían complicaciones respiratorias como asma o bronquitis crónica, el respirar el aire contaminado hace que aumenten los síntomas y eleva el riesgo de desencadenar una crisis asmática. Además advierte que la exposición de cualquier persona a la inhalación de este aire durante cortos periodos de tiempo puede irritar las vías respiratorias y en el caso de que esto fuese prolongado se puede llegar a producir enfermedades respiratorias crónicas las cuales pueden llegar a deteriorar progresivamente la función pulmonar.
+- Debido a la erupción el aire de la zona quedo muy contaminado por la cenizas volcánica, lo que repercute gravemente dentro del organismo humano. Según el Dr. Daniel Pérez Chada, Jefe del Servicio de Neumonología del Hospital Universitario Austral, en el caso de las personas que desde antes ya tenían complicaciones respiratorias como asma o bronquitis crónica, el respirar el aire contaminado hace que aumenten los síntomas y eleva el riesgo de desencadenar una crisis asmática. Además advierte que la exposición de cualquier persona a la inhalación de este aire durante cortos periodos de tiempo puede irritar las vías respiratorias y en el caso de que esto fuese prolongado se puede llegar a producir enfermedades respiratorias crónicas las cuales pueden llegar a deteriorar progresivamente la función pulmonar.
 
--Otro factor a destacar es el aumento de la desconfianza de la población afectada por la erupción volcánica hacia las medidas tomadas por el gobierno sobre la reubicación de Chaitén y su población, debido a que el área afectada se designo como zona no apta para habitar.
+- Otro factor a destacar es el aumento de la desconfianza de la población afectada por la erupción volcánica hacia las medidas tomadas por el gobierno sobre la reubicación de Chaitén y su población, debido a que el área afectada se designo como zona no apta para habitar.
 
 ## Efecto en la localidad
 
--Debido a la ceniza volcánica la zona afectada y sus alrededores quedó muy contaminada, ademas se suman una gran cantidad de destrozos en la infraestructura y el equipamiento urbano, así también daños a las distintas fuentes de trabajo como lo es la ganadería
+- Debido a la ceniza volcánica la zona afectada y sus alrededores quedó muy contaminada, ademas se suman una gran cantidad de destrozos en la infraestructura y el equipamiento urbano, así también daños a las distintas fuentes de trabajo como lo es la ganadería
 
--Los efectos del volcán no solo afectaron a Chile sino que también a otros países como Argentina, lo que genero  que se hubieran que evacuar a (x personas) y varias aerolíneas tuvieron que suspender sus vuelos 
+- Los efectos del volcán no solo afectaron a Chile sino que también a otros países como Argentina, lo que genero  que se hubieran que evacuar a (x personas) y varias aerolíneas tuvieron que suspender sus vuelos 
 
--Según el Dr. Miguel Bertolami, profesor e investigador de la Facultad de Ciencias Naturales de casa de estudio, el impacto ambiental generado por la erupción volcánica en los suelos de las zonas afectadas sufrirán un posible impacto positivo ya que este se vera modificado gracias al aporte de distintos nutrientes que trae con sigo las cenizas volcánicas.
+- Según el Dr. Miguel Bertolami, profesor e investigador de la Facultad de Ciencias Naturales de casa de estudio, el impacto ambiental generado por la erupción volcánica en los suelos de las zonas afectadas sufrirán un posible impacto positivo ya que este se vera modificado gracias al aporte de distintos nutrientes que trae con sigo las cenizas volcánicas.
 
 
 ## Río Blanco (Chaitén)
