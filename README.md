@@ -12,7 +12,7 @@ Desde la mirada de la ciencia, hace casi 100 años que no se registraba una erup
 ¿Qué tipo de magma eruptó el volcán Chaitén en Mayo del 2008?
 Magma riolítico, uno de los más viscosos que hay. Sin embargo, el volcán dio menos de 6 horas de 'aviso' previo.
 
-# Chile, un país sísmico
+# Chile, un país volcánicamente activo
 El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 categorías de volcanes de acuerdo a su índice de peligrosidad, en estos volcanes hay instalado al menos un método de resgistro (sismógrafo, cámaras de vigilancia, cámaras infrarrojas, etc).
 
 
