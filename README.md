@@ -12,23 +12,25 @@ Desde la mirada de la ciencia, hace casi 100 años que no se registraba una erup
 ¿Qué tipo de magma eruptó el volcán Chaitén en Mayo del 2008?
 Magma riolítico, uno de los más viscosos que hay. Sin embargo, el volcán dio menos de 6 horas de 'aviso' previo.
 
+# Chile, un país sísmico
+El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 categorías de volcanes de acuerdo a su índice de peligrosidad, en estos volcanes hay instalado al menos un método de resgistro (sismógrafo, cámaras de vigilancia, cámaras infrarrojas, etc).
 
 
 | CATEGORÍA 1:muy alta peligrosidad | CATEGORÍA 2: alta peligrosidad | CATEGORÍA 3: peligrosidad moderada |
-|:--------------------------------|:----------------------------|:-----------------------|
-| 01. Láscar                      | 01. Taapaca                 | 01. Guallatiri         |
-| 02. Tupungatito                 | 02. Parinacota              | 02. Isluga             |
-| 03. Descabezado Grande -Quizapu | 03. San José                | 03. Irruputuncu        |
-| 04. Nevados de Chillán          | 04. Planchón-Peteroa        | 04. Olca               |
-| 05. Antuco                      | 05. Laguna del Maule        | 05. Ollagüe            |
-| 06. Llaima                      | 06. Callaqui                | 06. San Pedro          |
-| 07. Villarrica                  | 07. Copahue                 | 07. Lastarria          |
-| 08. Mocho-Choshuenco            | 08. Lonquimay-Tolhuaca      | 08. Tinguiririca       |
-| 09. Puyehue-Cordón Caulle       | 09. Sollipulli              | 09. Tatara-San Pedro   |
-| 10. Calbuco                     | 10. Carrán - Los Venados    | 10. Nevado de Longaví  |
-| 11. Michinmahuida               | 11. Casablanca-Antillanca   | 11. Quetrupillán       |
-| 12. Chaitén                     | 12. Osorno                  | 12. Lanín              |
-| 13. Hudson                      | 13. Yate-Hornopirén-Apagado | 13. Huequi             |
-| --. ------                      | 14. Maca-Cay                | 14. Corcovado-Yanteles |
-| --. ------                      | --. ----------------------- | 15. Melimoyu           |
-| --. ------                      | --. ----------------------- | 16. Mentolat           |
+|:----------------------------------|:-------------------------------|:-----------------------------------|
+| 01. Láscar                        | 01. Taapaca                    | 01. Guallatiri                     |
+| 02. Tupungatito                   | 02. Parinacota                 | 02. Isluga                         |
+| 03. Descabezado Grande -Quizapu   | 03. San José                   | 03. Irruputuncu                    |
+| 04. Nevados de Chillán            | 04. Planchón-Peteroa           | 04. Olca                           |
+| 05. Antuco                        | 05. Laguna del Maule           | 05. Ollagüe                        |
+| 06. Llaima                        | 06. Callaqui                   | 06. San Pedro                      |
+| 07. Villarrica                    | 07. Copahue                    | 07. Lastarria                      |
+| 08. Mocho-Choshuenco              | 08. Lonquimay-Tolhuaca         | 08. Tinguiririca                   |
+| 09. Puyehue-Cordón Caulle         | 09. Sollipulli                 | 09. Tatara-San Pedro               |
+| 10. Calbuco                       | 10. Carrán - Los Venados       | 10. Nevado de Longaví              |
+| 11. Michinmahuida                 | 11. Casablanca-Antillanca      | 11. Quetrupillán                   |
+| 12. Chaitén                       | 12. Osorno                     | 12. Lanín                          |
+| 13. Hudson                        | 13. Yate-Hornopirén-Apagado    | 13. Huequi                         |
+|                                   | 14. Maca-Cay                   | 14. Corcovado-Yanteles             |
+|                                   |                                | 15. Melimoyu                       |
+|                                   |                                | 16. Mentolat                       |
