@@ -56,8 +56,7 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 | Volumen estimado | 7 km^3 |
 | Ranking Riesgo Específico | 11 |
 | Medidas caldera | (2,5 x 4) km |
-| Mayores riesgos asociados | Debido a su registro eruptivo, el mayor riesgo viene de la ceniza que en su momento se elevó sobre la cordillera de los andes debido a vientos favorables.
-Las nieves y las lluvias pueden generar lahares. |
+| Mayores riesgos asociados | Debido a su registro eruptivo, el mayor riesgo viene de la ceniza que en su momento se elevó sobre la cordillera de los andes debido a vientos favorables. Las nieves y las lluvias pueden generar lahares. |
 
 ## Efecto en las personas
 
