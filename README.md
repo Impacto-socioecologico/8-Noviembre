@@ -46,7 +46,7 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 |                                   |                                | 15. Melimoyu                       |
 |                                   |                                | 16. Mentolat                       |
 
-#Efecto en las personas
+# Efecto en las personas
 
 -La evacuación de los habitantes de Chaitén fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas.
 
@@ -54,7 +54,7 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 
 -Otro factor a destacar es el aumento de la desconfianza de la población afectada por la erupción volcánica hacia las medidas tomadas por el gobierno sobre la reubicación de Chaitén y su población, debido a que el área afectada se designo como zona no apta para habitar.
 
-#Efecto en la localidad
+# Efecto en la localidad
 
 -Debido a la ceniza volcánica la zona afectada y sus alrededores quedó muy contaminada, ademas se suman una gran cantidad de destrozos en la infraestructura y el equipamiento urbano, así también daños a las distintas fuentes de trabajo como lo es la ganadería
 
