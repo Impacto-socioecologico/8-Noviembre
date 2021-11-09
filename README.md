@@ -1,7 +1,8 @@
 # Volcán Chaiten
-Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca de 95 volcanes.
+Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan.
 
 *aquí tal vez algo sobre los tipos de volcanes y a cual de estos corresponde Chaitén*
+
 
 __El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén.__ Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento científico muy interesante de estudiar.
 
