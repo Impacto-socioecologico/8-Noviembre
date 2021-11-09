@@ -3,29 +3,6 @@ Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca d
 
 *aquí tal vez algo sobre los tipos de volcanes y a cual de estos corresponde Chaitén*
 
-
-__El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén.__ Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento científico muy interesante de estudiar.
-
-Chaitén está ubicado en una de las zonas más delgadas de nuestro país y coincidentemente cerca del pueblo se encuentra el impotente volcán Michinmahuida. Este volcán ha registrado erupciones históricas y era reconocido como un potencial peligro por los residentes de la zona. El "cerro" Chaitén, en cambio, no era ni considerado un volcán. Erróneamente se creía que estaba inactivo y su última erupción había sido hace ya más de 3000 años. Es solo al estudiar este caso posterior a la erupción del 2008 que se descubrió que la última erupción fue hace tan solo 300 años, esta fue tan grande como la que sepultó a Pompeya, y que Chaitén definitivamente se encuentra activo. Esta grave confusión y descuido de investigación fue crucial por parte de las autoridades al momento de dar instrucciones, ya que se creía que la erupción era del volcán Michinmahuida, por lo que en un principio los residentes no iban a ser evacuados, error que podría haber resultado en miles de muertes.
-
-Desde la mirada de la ciencia, hace casi 100 años que no se registraba una erupción tan violenta e inesperada que además desafiaba y contradecía las ideas existentes sobre cómo se generan estas. *aquí definición de magma.* Cada vez que el magma busca ascender, debe romper la roca que está por encima de él, por lo que se generan sismos. Se cree que los magmas más viscosos tienden a moverse más lento, generando enjambres de sismos los días previos a la erupción. Siendo esta la forma de la naturaleza para avisar el desastre socionatural propenso a ocurrir.
-
-¿Qué tipo de magma eruptó el volcán Chaitén en Mayo del 2008?
-Magma riolítico, uno de los más viscosos que hay. Sin embargo, el volcán dio menos de 6 horas de 'aviso' previo y la erupción fue tan grande que tenía el potencial del sepultar Chaitén.
-
-![71_chaiten](https://user-images.githubusercontent.com/75447953/140771123-35bb390f-79ae-4202-93e0-5c0fc303be1c.jpg)
-
-Su ceniza volcánica alcanzó una altura de 40 kilómetros y contaminó la atmósfera de los alrededores, llegando a la Patagonia argentina e incluso a Buenos Aires. Además, junto a la lluvia de cenizas y el deshielo de las nieves, el río Blanco se desbordó. Aumentando en 1,5 metros su cauce habitual. Fue este, finalmente, el que destruyó gran parte del pueblo, su infraestructura y equipamiento urbano.
-
-Se evacuó inmediatamente los 8000 habitantes del pueblo Chaitén a órdenes de los científicos, nunca antes en Chile se había evacuado una cantidad de personas tan grande debido a una erupción volcánica. Gracias a la rápida evacuación no hubo peronas fallecidas. En vista de la grave situación, el gobierno declaró que vivir en allí equivale a poner su vida en riesgo y compró la mayoría de los terrenos esperando que nadie vuelva a dicha zona.
-
-__¿Qué pasa con las personas que vivían en Chaitén?__ Si bien, fueron relocalizados rápidamente por el gobierno, __¿Qué ocurre con su identidad? ¿Qué cambios ocurrieron en sus vidas? ¿Cuántos desean volver a sus tierras?__
-
-Lamentablemente, llegado el año 2010 ocurrió el terremoto del Maule, por lo que el foco del gobierno cambió de Chaitén y los proyectos de reconstrucción perdieron impulso. Muchas familias volvieron a la zona, pero sólo alcanzaron a ser menos de un tercio de las que habían originalmente.
-
-La erupción del volcán Chaitén terminó en Mayo del 2011, tres años después de su inicio, pero para ese entonces, Chile ya no estaba prestando atención.
-
-
 ## Chile, un país volcánicamente activo
 El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 categorías de volcanes de acuerdo a su índice de peligrosidad, en estos volcanes hay instalado al menos un método de resgistro (sismógrafo, cámaras de vigilancia, cámaras infrarrojas, etc).
 
@@ -61,13 +38,30 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 | Medidas caldera | (2,5 x 4) km |
 | Mayores riesgos asociados | Debido a su registro eruptivo, el mayor riesgo viene de la ceniza que en su momento se elevó sobre la cordillera de los andes debido a vientos favorables. Las nieves y las lluvias pueden generar lahares. |
 
+## Chaitén, errupción inesperada
+__El jueves 1 de mayo de 2008 fue la erupción del volcán Chaitén.__ Esta erupción fue muy imprevista en varios aspectos, por lo que es un evento científico muy interesante de estudiar.
+
+Chaitén está ubicado en una de las zonas más delgadas de nuestro país y coincidentemente cerca del pueblo se encuentra el impotente volcán Michinmahuida. Este volcán ha registrado erupciones históricas y era reconocido como un potencial peligro por los residentes de la zona. El "cerro" Chaitén, en cambio, no era ni considerado un volcán. 
+Erróneamente se creía que estaba inactivo y se creía que su última erupción había sido hace ya más de 3000 años. Es solo al estudiar este caso posterior a la erupción del 2008 que se descubrió que la última erupción fue hace tan solo 300 años, esta fue tan grande como la que sepultó a Pompeya, y que Chaitén definitivamente se encuentra activo. Esta grave confusión y descuido de investigación fue crucial por parte de las autoridades al momento de dar instrucciones, ya que se creía que la erupción era del volcán Michinmahuida, por lo que en un principio los residentes no iban a ser evacuados, error que podría haber resultado en miles de muertes.
+
+Desde la mirada de la ciencia, hace casi 100 años que no se registraba una erupción tan violenta e inesperada ,que además desafiaba y contradecía las ideas existentes sobre cómo se generan estas. 
+*aquí definición de magma.* Cada vez que el magma busca ascender, debe romper la roca que está por encima de él, por lo que se generan sismos. Se cree que los magmas más viscosos tienden a moverse más lento, generando enjambres de sismos los días previos a la erupción. Siendo esta la forma de la naturaleza para avisar el desastre socionatural propenso a ocurrir.
+
+¿Qué tipo de magma eruptó el volcán Chaitén en Mayo del 2008?
+El magma que erupto en el volván de Chaitén fue el riolítico, uno de los más viscosos que hay. Sin embargo, el volcán dio menos de 6 horas de 'aviso' previo y la erupción fue tan grande que tenía el potencial del sepultar Chaitén.
+
+![71_chaiten](https://user-images.githubusercontent.com/75447953/140771123-35bb390f-79ae-4202-93e0-5c0fc303be1c.jpg)
+
+Su ceniza volcánica alcanzó una altura de 40 kilómetros y contaminó la atmósfera de los alrededores, llegando a la Patagonia argentina e incluso a Buenos Aires. Además, junto a la lluvia de cenizas y el deshielo de las nieves, el río Blanco se desbordó. Aumentando en 1,5 metros su cauce habitual. Fue este, finalmente, el que destruyó gran parte del pueblo, su infraestructura y equipamiento urbano.
+
+La erupción del volcán Chaitén terminó en Mayo del 2011, tres años después de su inicio, pero para ese entonces, Chile ya no estaba prestando atención.
+
 ## Efecto en las personas
+Debido a la erupción el aire de la zona quedo muy contaminado por la cenizas volcánica, lo que repercute gravemente dentro del organismo humano. Según el Dr. Daniel Pérez Chada, Jefe del Servicio de Neumonología del Hospital Universitario Austral, en el caso de las personas que desde antes tienen complicaciones respiratorias como asma o bronquitis crónica, el respirar el aire contaminado hace que aumenten los síntomas y eleva el riesgo de desencadenar una crisis asmática. Además advierte que la exposición de cualquier persona a la inhalación de este aire durante cortos periodos de tiempo puede irritar las vías respiratorias y en el caso de que esto fuese prolongado se puede llegar a producir enfermedades respiratorias crónicas las cuales pueden llegar a deteriorar progresivamente la función pulmonar.
 
-- La evacuación de los habitantes de Chaitén fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas.
+Por lo tanto se evacuó inmediatamente los cerca de 8000 habitantes del pueblo Chaitén a órdenes de las autoridades, nunca antes en Chile se había evacuado una cantidad de personas tan grande debido a una erupción volcánica. La evacuación de los habitantes fue el movimiento de personas civiles y medios de transporte más grande de la historia de la Patagonia, lo que inevitablemente genero temor y estrés en las personas. Gracias a la rápida evacuación no hubo personas fallecidas. En vista de la grave situación, el gobierno declaró que vivir en allí equivale a poner su vida en riesgo y compró la mayoría de los terrenos esperando que nadie vuelva a dicha zona.
 
-- Debido a la erupción el aire de la zona quedo muy contaminado por la cenizas volcánica, lo que repercute gravemente dentro del organismo humano. Según el Dr. Daniel Pérez Chada, Jefe del Servicio de Neumonología del Hospital Universitario Austral, en el caso de las personas que desde antes ya tenían complicaciones respiratorias como asma o bronquitis crónica, el respirar el aire contaminado hace que aumenten los síntomas y eleva el riesgo de desencadenar una crisis asmática. Además advierte que la exposición de cualquier persona a la inhalación de este aire durante cortos periodos de tiempo puede irritar las vías respiratorias y en el caso de que esto fuese prolongado se puede llegar a producir enfermedades respiratorias crónicas las cuales pueden llegar a deteriorar progresivamente la función pulmonar.
-
-- Otro factor a destacar es el aumento de la desconfianza de la población afectada por la erupción volcánica hacia las medidas tomadas por el gobierno sobre la reubicación de Chaitén y su población, debido a que el área afectada se designo como zona no apta para habitar.
+Sin ebargo, los habitantes de Chaitén siempre tuvieron las ganas de retornar, tanto que sin autorización de por medio comenzaron a regresar de todas maneras. Lamentablemente, llegado el año 2010 ocurrió el terremoto del Maule, por lo que el foco del gobierno cambió de Chaitén y los proyectos de reconstrucción perdieron impulso. Muchas familias volvieron a la zona, pero sólo alcanzaron a ser menos de un tercio de las que habían originalmente. 
 
 ## Efecto en la localidad
 
