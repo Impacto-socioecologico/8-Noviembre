@@ -47,6 +47,16 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 |                                   | 14. Maca-Cay                   | 14. Corcovado-Yanteles             |
 |                                   |                                | 15. Melimoyu                       |
 |                                   |                                | 16. Mentolat                       |
+
+## Sistema de alertas Sernageomin
+
+|                 | Estado del volcán                                                                      | Frecuencia de reportes                    | Fenómenos volcánicos | ¿Qué hacer? |
+|:----------------|:---------------------------------------------------------------------------------------|:------------------------------------------|:-----------|:------------|
+| Alerta Roja     | Erupción inminente, a horas de la erupción o en proceso.                               | Diarios o a medida que se da la erupción. | Erupción inminente o en curso. | Seguir instrucciones de autoridades, posible evacuación. |
+| Alerta Naranja  | Erupción probable, a días/semanas de una etapa eruptiva.                               | Diarios.                                  | Mayor frecuencia e intensidad de los fenómenos descritos en la alerta amarilla. | Mayor frecuencia e intensidad de los fenómenos descritos en la alerta amarilla. |
+| Alerta Amarilla | Detección de cambios en la actividad volcánica, una posible erupción en semanas/meses. | Quincenales.                              | Explosiones menores, incremento actividad sísmica, aparición de fumarolas. | Mantenerse informado, evitar acercarse al volcán. |
+| Alerta Verde    | Actividad estable, una posible erupción en años.                                       | Mensuales.                                | Estable. | Sin peligro para la población. |
+
 ## Información del volcán Chaitén
 
 | Nombre | Volcán Chaitén |
