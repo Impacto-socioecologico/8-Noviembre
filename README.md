@@ -48,6 +48,8 @@ El Servicio Nacional de Geología y Minería (SERNAGEOMIN) ha establecido 3 cate
 |                                   |                                | 15. Melimoyu                       |
 |                                   |                                | 16. Mentolat                       |
 
+![categoria_1](https://user-images.githubusercontent.com/63246150/141730619-ae98dcdd-75f0-4bad-b457-090f82279552.png)
+
 ## Sistema de alertas Sernageomin
 
 |                 | Estado del volcán                                                                      | Frecuencia de reportes                    | Fenómenos volcánicos | ¿Qué hacer? |
