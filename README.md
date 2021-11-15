@@ -1,7 +1,6 @@
 # Volcán Chaiten
 Chile es uno de los 5 países con más volcanes activos en el mundo, con cerca de 95 volcanes.  Esto debido a que Chile pertenece a uno de los 40 países del Cinturón de Fuego, una región de 40.000 kilómetros en la que varias placas oceánicas se deslizan y aproximan.
 
-*aquí tal vez algo sobre los tipos de volcanes y a cual de estos corresponde Chaitén*
 Los volcanes se clasifican dentro de cinco categorías principales de acuerdo con el tipo de estructura y de actividad volcánica que presentan.
 - Los estratovolcanes tienen una forma cónica y un cráter central, que se caracterizan por erupciones de tipo explosiva causadas por la viscosidad de su magma. Este tipo de estructura volcánica está compuesta por capas de depósitos de lava y fragmento de roca intercaladas. 
 
